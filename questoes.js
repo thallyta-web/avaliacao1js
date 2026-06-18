@@ -46,12 +46,12 @@ switch (categoria){
 
 /*3. Sequência de Fibonacci: a sequência de Fibonacci é uma série de números onde cada número é a soma
 dos dois anteriores, começando com 0 e 1. Crie um script que use um laço for para gerar e exibir no console os
-10 primeiros números desta sequência, que são: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34. (incompleto)*/
+10 primeiros números desta sequência, que são: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34.*/
 
 /*
-for (let i = 0){
-    console.log(i)
-    i+= i
+let numero = 0
+for (let i = 1; i <=34; i+=numero) {
+     console.log(`${numero += i}`);
 }
 */
 
